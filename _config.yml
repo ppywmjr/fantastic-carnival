@@ -4,3 +4,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# This section controls the navigation menu
+header_pages:
+  - index.md
+  - about.md
