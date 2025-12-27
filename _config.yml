@@ -1,0 +1,4 @@
+title: My Jekyll Site
+description: A basic site built entirely on the web.
+theme: minima
+remote_theme: jekyll/minima
