@@ -1,0 +1,27 @@
+# Ignore bundler config
+/.bundle/
+
+# Ignore site output
+/_site/
+
+# Ignore cache and temp files
+/.sass-cache/
+/.jekyll-cache/
+/.jekyll-metadata
+
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Ruby environment files
+/vendor/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Gemfile.lock for gems (optional, but often committed for apps)
+# Gemfile.lock
